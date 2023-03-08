@@ -20,7 +20,7 @@ const menu = [
     title: "በያይነት",
     category: "ምሳ",
     price: 40,
-    img: "./image-2/Alicha_1.JPG",
+    img: "./image-2/Alicha_1.jpg",
     desc: `This is a bayonet, injera with several different vegetarian wats (sauces) including misir alecha (lentils without berbere), tagabino (lentils with berbere), shiro (ground lentils with berbere) rafuu (cabbage), dinicha (potatoes), qaraa (spicy green peppers) and beets ( i forgot how to say it in Afan Oromo and I am too lazy to pick up my dictionary)`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "ስፕሪስ ጁስ",
     category: "ጁስ",
     price: 40,
-    img: "./image-2/juice.JPG",
+    img: "./image-2/juice.jpg",
     desc: ` a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.`,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "ገንፎ",
     category: "ቁርስ",
     price: 60,
-    img: "./image-2/genfo.JPG",
+    img: "./image-2/genfo.jpg",
     desc: `Genfo is made with barley or wheat flour and to cook it the flour and water are combined and stirred continuously with a wooden spoon. Genfo is presented in a large mound with a hole in the center, filled with a mixture of niter kibbeh and berbere. The porridge may be eaten with the hands or with a utensil.fiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "እንቁላል",
     category: "ምሳ",
     price: 45,
-    img: "./image-2/egg.JPG",
+    img: "./image-2/egg.jpg",
     desc: `a traditional dish from Ethiopia and a type of wat (Ethiopian stew). In order to prepare it, onions are sautéed in niter kibbeh clarified butter, followed by ginger, garlic, cardamom, berbere spices, and beef broth. `,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "oreo dream",
     category: "ጁስ",
     price: 70,
-    img: "./image-2/item-6.JPEG",
+    img: "./image-2/item-6.jpeg",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "አገልግል",
     category: "እራት",
     price: 155,
-    img: "./image-2/agelgel.JPG",
+    img: "./image-2/agelgel.jpg",
     desc: `Woven grass with a leather outer covering. These baskets were commonly used in Ethiopia by the Oromo and amhara and other people as a kind of "lunch/hot box".`,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "ክትፎ",
     category: "ምሳ",
     price: 129,
-    img: "./image-2/kitfo.JPG",
+    img: "./image-2/kitfo.jpg",
     desc: `A diet high in fat and low in carbohydrates (sugars) that causes the body to break down fat into molecules called ketones`,
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     title: "quarantine buddy",
     category: "ጁስ",
     price: 80,
-    img: "./image-2/item-9.JPEG",
+    img: "./image-2/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
@@ -84,7 +84,7 @@ const menu = [
     title: "ፓስታ",
     category: "እራት",
     price: 40,
-    img: "./image-2/pasta.JPG",
+    img: "./image-2/pasta.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
@@ -92,7 +92,7 @@ const menu = [
     title: "ጨጨብሳ",
     category: "ቁርስ",
     price: 80,
-    img: "./image-2/chechebsa.JPG",
+    img: "./image-2/chechebsa.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
